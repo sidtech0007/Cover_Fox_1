@@ -1,0 +1,337 @@
+2024-10-11 13:18:25,735 - CoverFox -INFO - openinng application
+2024-10-11 13:18:26,350 - CoverFox -INFO - clicking on gender button
+2024-10-11 13:18:27,488 - CoverFox -INFO - clicking on next button
+2024-10-11 13:18:29,766 - CoverFox -INFO - handling age dropdown
+2024-10-11 13:18:29,859 - CoverFox -INFO - clicking on next button
+2024-10-11 13:18:31,079 - CoverFox -INFO - entering pincode
+2024-10-11 13:18:31,235 - CoverFox -INFO - entering mobile number
+2024-10-11 13:18:31,311 - CoverFox -INFO - clicking on conntinue button
+2024-10-11 13:18:35,428 - CoverFox -INFO - validating results
+2024-10-11 13:37:28,822 - CoverFox -INFO - openinng application
+2024-10-11 13:37:30,090 - CoverFox -INFO - Clicking on gender button
+2024-10-11 13:37:31,246 - CoverFox -INFO - Clicking on next button
+2024-10-11 13:37:33,524 - CoverFox -INFO - Handling age dropdown
+2024-10-11 13:37:33,588 - CoverFox -INFO - Clicking on next button
+2024-10-11 13:37:34,595 - CoverFox -WARN - Enter valid pincode
+2024-10-11 13:37:34,807 - CoverFox -INFO - Entering pincode
+2024-10-11 13:37:34,808 - CoverFox -WARN - Enter valid mobile number
+2024-10-11 13:37:34,951 - CoverFox -INFO - Entering mobile number
+2024-10-11 13:37:35,022 - CoverFox -INFO - Clicking on conntinue button
+2024-10-11 13:37:35,022 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-11 13:37:39,104 - CoverFox -INFO - validating results
+2024-10-11 13:39:45,794 - CoverFox -INFO - openinng application
+2024-10-11 13:39:46,429 - CoverFox -INFO - Clicking on gender button
+2024-10-11 13:39:47,535 - CoverFox -INFO - Clicking on next button
+2024-10-11 13:39:49,660 - CoverFox -INFO - Handling age dropdown
+2024-10-11 13:39:49,719 - CoverFox -INFO - Clicking on next button
+2024-10-11 13:39:50,724 - CoverFox -WARN - Enter valid pincode
+2024-10-11 13:39:50,982 - CoverFox -INFO - Entering pincode
+2024-10-11 13:39:50,982 - CoverFox -WARN - Enter valid mobile number
+2024-10-11 13:39:51,144 - CoverFox -INFO - Entering mobile number
+2024-10-11 13:39:51,215 - CoverFox -INFO - Clicking on conntinue button
+2024-10-11 13:39:51,215 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-11 13:39:55,321 - CoverFox -INFO - validating results
+2024-10-13 19:04:50,867 - CoverFox -INFO - openinng application
+2024-10-13 19:04:51,725 - CoverFox -INFO - Clicking on gender button
+2024-10-13 19:04:53,026 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:04:55,285 - CoverFox -INFO - Handling age dropdown
+2024-10-13 19:04:55,366 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:04:56,379 - CoverFox -WARN - Enter valid pincode
+2024-10-13 19:04:56,617 - CoverFox -INFO - Entering pincode
+2024-10-13 19:04:56,617 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 19:04:56,800 - CoverFox -INFO - Entering mobile number
+2024-10-13 19:04:56,886 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 19:04:56,887 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 19:05:01,040 - CoverFox -INFO - validating results
+2024-10-13 19:07:41,107 - CoverFox -INFO - openinng application
+2024-10-13 19:07:41,674 - CoverFox -INFO - Clicking on gender button
+2024-10-13 19:07:42,968 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:07:45,684 - CoverFox -INFO - Handling age dropdown
+2024-10-13 19:07:45,759 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:07:46,765 - CoverFox -WARN - Enter valid pincode
+2024-10-13 19:07:47,023 - CoverFox -INFO - Entering pincode
+2024-10-13 19:07:47,024 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 19:07:47,266 - CoverFox -INFO - Entering mobile number
+2024-10-13 19:07:47,351 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 19:07:47,352 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 19:07:51,520 - CoverFox -INFO - validating results
+2024-10-13 19:07:54,779 - CoverFox -INFO - openinng application
+2024-10-13 19:07:55,492 - CoverFox -INFO - Clicking on gender button
+2024-10-13 19:07:56,680 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:07:57,962 - CoverFox -INFO - Handling age dropdown
+2024-10-13 19:07:58,030 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:07:59,032 - CoverFox -WARN - Enter valid pincode
+2024-10-13 19:07:59,274 - CoverFox -INFO - Entering pincode
+2024-10-13 19:07:59,274 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 19:07:59,435 - CoverFox -INFO - Entering mobile number
+2024-10-13 19:07:59,518 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 19:07:59,519 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 19:08:03,632 - CoverFox -INFO - validating results
+2024-10-13 19:08:18,504 - CoverFox -INFO - openinng application
+2024-10-13 19:08:19,276 - CoverFox -INFO - Clicking on gender button
+2024-10-13 19:08:20,443 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:08:21,903 - CoverFox -INFO - Handling age dropdown
+2024-10-13 19:08:21,973 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:08:22,978 - CoverFox -WARN - Enter valid pincode
+2024-10-13 19:08:23,292 - CoverFox -INFO - Entering pincode
+2024-10-13 19:08:23,292 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 19:08:23,552 - CoverFox -INFO - Entering mobile number
+2024-10-13 19:08:23,637 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 19:08:23,637 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 19:08:27,787 - CoverFox -INFO - validating results
+2024-10-13 19:08:37,452 - CoverFox -INFO - openinng application
+2024-10-13 19:08:38,311 - CoverFox -INFO - Clicking on gender button
+2024-10-13 19:08:39,680 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:08:41,180 - CoverFox -INFO - Handling age dropdown
+2024-10-13 19:08:41,444 - CoverFox -INFO - Clicking on next button
+2024-10-13 19:08:42,447 - CoverFox -WARN - Enter valid pincode
+2024-10-13 19:08:42,562 - CoverFox -INFO - Entering pincode
+2024-10-13 19:08:42,563 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 19:08:42,701 - CoverFox -INFO - Entering mobile number
+2024-10-13 19:08:43,019 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 19:08:43,020 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 19:08:47,094 - CoverFox -INFO - validating results
+2024-10-13 20:35:23,530 - CoverFox -INFO - openinng application
+2024-10-13 20:35:40,559 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:35:41,753 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:35:45,236 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:35:45,351 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:35:46,616 - CoverFox -INFO - Entering pincode
+2024-10-13 20:35:46,703 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:41:11,406 - CoverFox -INFO - openinng application
+2024-10-13 20:41:12,872 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:41:13,988 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:41:16,524 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:41:16,598 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:41:17,915 - CoverFox -INFO - Entering pincode
+2024-10-13 20:41:18,006 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:41:23,346 - CoverFox -INFO - openinng application
+2024-10-13 20:41:24,141 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:41:25,341 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:41:26,854 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:41:27,068 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:41:28,415 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:41:28,497 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:48:39,834 - CoverFox -INFO - openinng application
+2024-10-13 20:48:41,066 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:48:42,353 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:48:45,303 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:48:45,394 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:48:46,699 - CoverFox -INFO - Entering pincode
+2024-10-13 20:48:46,772 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:48:56,195 - CoverFox -INFO - openinng application
+2024-10-13 20:48:57,216 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:48:58,430 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:49:00,325 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:49:00,411 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:49:01,684 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:49:01,773 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:57:22,473 - CoverFox -INFO - openinng application
+2024-10-13 20:57:23,119 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:57:24,305 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:57:27,277 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:57:27,378 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:57:28,394 - CoverFox -WARN - Enter valid pincode
+2024-10-13 20:57:28,749 - CoverFox -INFO - Entering pincode
+2024-10-13 20:57:28,749 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 20:57:28,978 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:57:29,067 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:57:29,067 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 20:57:33,296 - CoverFox -INFO - validating results
+2024-10-13 20:57:38,106 - CoverFox -INFO - openinng application
+2024-10-13 20:57:38,776 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:57:39,876 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:57:41,216 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:57:41,279 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:57:42,287 - CoverFox -WARN - Enter valid pincode
+2024-10-13 20:57:42,546 - CoverFox -INFO - Entering pincode
+2024-10-13 20:57:42,547 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 20:57:42,768 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:57:42,837 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:57:42,837 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 20:57:47,023 - CoverFox -INFO - validating results
+2024-10-13 20:57:57,138 - CoverFox -INFO - openinng application
+2024-10-13 20:57:58,188 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:57:59,581 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:58:01,303 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:58:01,586 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:58:02,596 - CoverFox -WARN - Enter valid pincode
+2024-10-13 20:58:02,859 - CoverFox -INFO - Entering pincode
+2024-10-13 20:58:02,860 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 20:58:03,089 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:58:03,392 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:58:03,392 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 20:58:07,487 - CoverFox -INFO - validating results
+2024-10-13 20:58:28,905 - CoverFox -INFO - openinng application
+2024-10-13 20:58:29,650 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:58:30,758 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:58:33,866 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:58:33,952 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:58:34,967 - CoverFox -WARN - Enter valid pincode
+2024-10-13 20:58:35,246 - CoverFox -INFO - Entering pincode
+2024-10-13 20:58:35,247 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 20:58:35,467 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:58:35,560 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:58:35,560 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 20:58:39,655 - CoverFox -INFO - validating results
+2024-10-13 20:59:00,834 - CoverFox -INFO - openinng application
+2024-10-13 20:59:01,566 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:59:02,741 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:59:05,728 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:59:05,792 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:59:07,081 - CoverFox -INFO - Entering pincode
+2024-10-13 20:59:07,160 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 20:59:10,266 - CoverFox -INFO - openinng application
+2024-10-13 20:59:12,745 - CoverFox -INFO - Clicking on gender button
+2024-10-13 20:59:13,946 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:59:15,300 - CoverFox -INFO - Handling age dropdown
+2024-10-13 20:59:15,373 - CoverFox -INFO - Clicking on next button
+2024-10-13 20:59:16,760 - CoverFox -INFO - Entering mobile number
+2024-10-13 20:59:16,853 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:00:34,646 - CoverFox -INFO - openinng application
+2024-10-13 21:00:35,258 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:00:36,445 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:00:39,423 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:00:39,516 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:00:40,823 - CoverFox -INFO - Entering pincode
+2024-10-13 21:00:40,899 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:00:46,351 - CoverFox -INFO - openinng application
+2024-10-13 21:00:46,911 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:00:48,052 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:00:49,349 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:00:49,421 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:00:50,681 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:00:50,738 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:04:10,804 - CoverFox -INFO - openinng application
+2024-10-13 21:04:11,517 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:04:12,696 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:15,547 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:04:15,631 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:16,646 - CoverFox -WARN - Enter valid pincode
+2024-10-13 21:04:16,931 - CoverFox -INFO - Entering pincode
+2024-10-13 21:04:16,931 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 21:04:17,133 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:04:17,210 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:04:17,211 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 21:04:21,463 - CoverFox -INFO - validating results
+2024-10-13 21:04:25,171 - CoverFox -INFO - openinng application
+2024-10-13 21:04:25,847 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:04:26,949 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:28,212 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:04:28,283 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:29,286 - CoverFox -WARN - Enter valid pincode
+2024-10-13 21:04:29,563 - CoverFox -INFO - Entering pincode
+2024-10-13 21:04:29,564 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 21:04:29,759 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:04:29,834 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:04:29,834 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 21:04:34,042 - CoverFox -INFO - validating results
+2024-10-13 21:04:38,107 - CoverFox -INFO - openinng application
+2024-10-13 21:04:38,568 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:04:39,738 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:41,122 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:04:41,193 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:42,202 - CoverFox -WARN - Enter valid pincode
+2024-10-13 21:04:42,528 - CoverFox -INFO - Entering pincode
+2024-10-13 21:04:42,528 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 21:04:42,772 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:04:42,861 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:04:42,861 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 21:04:47,035 - CoverFox -INFO - validating results
+2024-10-13 21:04:55,481 - CoverFox -INFO - openinng application
+2024-10-13 21:04:56,176 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:04:57,453 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:04:59,089 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:04:59,336 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:05:00,343 - CoverFox -WARN - Enter valid pincode
+2024-10-13 21:05:00,549 - CoverFox -INFO - Entering pincode
+2024-10-13 21:05:00,550 - CoverFox -WARN - Enter valid mobile number
+2024-10-13 21:05:00,733 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:05:01,022 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:05:01,023 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-13 21:05:05,099 - CoverFox -INFO - validating results
+2024-10-13 21:05:09,097 - CoverFox -INFO - openinng application
+2024-10-13 21:05:09,742 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:05:10,977 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:05:12,304 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:05:12,371 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:05:13,635 - CoverFox -INFO - Entering pincode
+2024-10-13 21:05:13,706 - CoverFox -INFO - Clicking on conntinue button
+2024-10-13 21:05:17,175 - CoverFox -INFO - openinng application
+2024-10-13 21:05:17,837 - CoverFox -INFO - Clicking on gender button
+2024-10-13 21:05:19,124 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:05:20,477 - CoverFox -INFO - Handling age dropdown
+2024-10-13 21:05:20,563 - CoverFox -INFO - Clicking on next button
+2024-10-13 21:05:21,810 - CoverFox -INFO - Entering mobile number
+2024-10-13 21:05:21,876 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:42:45,550 - CoverFox -INFO - openinng application
+2024-10-14 13:42:46,262 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:42:47,335 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:42:49,559 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:42:49,625 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:42:50,636 - CoverFox -WARN - Enter valid pincode
+2024-10-14 13:42:50,891 - CoverFox -INFO - Entering pincode
+2024-10-14 13:42:50,892 - CoverFox -WARN - Enter valid mobile number
+2024-10-14 13:42:51,118 - CoverFox -INFO - Entering mobile number
+2024-10-14 13:42:51,193 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:42:51,194 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-14 13:42:55,323 - CoverFox -INFO - validating results
+2024-10-14 13:42:57,289 - CoverFox -INFO - openinng application
+2024-10-14 13:43:00,614 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:43:01,714 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:02,961 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:43:03,030 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:04,042 - CoverFox -WARN - Enter valid pincode
+2024-10-14 13:43:04,263 - CoverFox -INFO - Entering pincode
+2024-10-14 13:43:04,264 - CoverFox -WARN - Enter valid mobile number
+2024-10-14 13:43:04,424 - CoverFox -INFO - Entering mobile number
+2024-10-14 13:43:04,494 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:43:04,494 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-14 13:43:08,576 - CoverFox -INFO - validating results
+2024-10-14 13:43:14,758 - CoverFox -INFO - openinng application
+2024-10-14 13:43:15,294 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:43:16,427 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:17,713 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:43:17,781 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:18,798 - CoverFox -WARN - Enter valid pincode
+2024-10-14 13:43:19,022 - CoverFox -INFO - Entering pincode
+2024-10-14 13:43:19,023 - CoverFox -WARN - Enter valid mobile number
+2024-10-14 13:43:19,227 - CoverFox -INFO - Entering mobile number
+2024-10-14 13:43:19,352 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:43:19,353 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-14 13:43:23,452 - CoverFox -INFO - validating results
+2024-10-14 13:43:32,186 - CoverFox -INFO - openinng application
+2024-10-14 13:43:33,536 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:43:34,769 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:36,548 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:43:36,832 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:37,845 - CoverFox -WARN - Enter valid pincode
+2024-10-14 13:43:38,044 - CoverFox -INFO - Entering pincode
+2024-10-14 13:43:38,044 - CoverFox -WARN - Enter valid mobile number
+2024-10-14 13:43:38,282 - CoverFox -INFO - Entering mobile number
+2024-10-14 13:43:38,586 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:43:38,586 - CoverFox -ERROR - Worng Details: Please chek the deatils
+2024-10-14 13:43:42,645 - CoverFox -INFO - validating results
+2024-10-14 13:43:47,118 - CoverFox -INFO - openinng application
+2024-10-14 13:43:49,602 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:43:50,771 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:52,035 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:43:52,101 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:43:53,287 - CoverFox -INFO - Entering pincode
+2024-10-14 13:43:53,350 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:43:53,407 - CoverFox -INFO - Validating Mobile number error message
+2024-10-14 13:43:57,966 - CoverFox -INFO - openinng application
+2024-10-14 13:43:58,683 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:43:59,786 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:44:01,014 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:44:01,080 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:44:02,195 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:44:02,305 - CoverFox -INFO - Validating pincode and mobile number error message
+2024-10-14 13:44:05,497 - CoverFox -INFO - openinng application
+2024-10-14 13:44:07,993 - CoverFox -INFO - Clicking on gender button
+2024-10-14 13:44:09,187 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:44:10,443 - CoverFox -INFO - Handling age dropdown
+2024-10-14 13:44:10,510 - CoverFox -INFO - Clicking on next button
+2024-10-14 13:44:11,698 - CoverFox -INFO - Entering mobile number
+2024-10-14 13:44:11,773 - CoverFox -INFO - Clicking on conntinue button
+2024-10-14 13:44:11,828 - CoverFox -INFO - Validating pincode error message
